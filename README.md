@@ -20,7 +20,7 @@ Philipp Ratz | 07/07/2021
 
 --- 
 
-#### Si vous souhaitez participer au séminaire, vous pouvez cliquer sur le bouton ci-joins : 
+#### Si vous souhaitez participer au séminaire, vous pouvez cliquer sur le bouton ci-joint : 
 <a href="mailto:gabriel.morin1109@outlook.com?
          cc=michaelides.marie@courrier.uqam.ca, guerin.helene@uqam.ca
          &subject=Participation au Séminaire d'été d'actuariat et de statistique de l'UQAM.
