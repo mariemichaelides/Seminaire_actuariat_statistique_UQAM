@@ -3,7 +3,7 @@
 
 
 # Séminaire d'été d'actuariat et de statistique de l'UQAM
-Vous trouverez ici les slides des présentations du séminaire.
+Vous trouverez [ici](Slides/) les slides des présentations du séminaire.
 
 ```diff
 - Prochaine présentation : Francis Duval
