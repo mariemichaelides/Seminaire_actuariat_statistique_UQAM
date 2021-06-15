@@ -10,15 +10,16 @@ Vous trouverez ici les slides des présentations du séminaire.
 ```
 ---
 
-Présentateur | Date
+**Présentateur** | **Date**
 :---: | :---:
 Francis Duval | 17/06/2021
 Marie-Claude Vachon | 23/06/2021
 Sébastien Jessup | 30/06/2021
 Philipp Ratz | 07/07/2021
 
-Si vous souhaitez participer au séminaire, vous pouvez clique sur le bouton ci-joins :
+--- 
 
+#### Si vous souhaitez participer au séminaire, vous pouvez clique sur le bouton ci-joins : 
 <a href="mailto:gabriel.morin1109@outlook.com?
          cc=michaelides.marie@courrier.uqam.ca, guerin.helene@uqam.ca
          &subject=Participation au Séminaire d'été d'actuariat et de statistique de l'UQAM.
