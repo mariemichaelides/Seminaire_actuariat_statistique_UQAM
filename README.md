@@ -8,6 +8,7 @@ Vous trouverez ici les slides des présentations du séminaire.
 ```diff
 - Prochaine présentation : Francis Duval
 ```
+
 ---
 
 **Présentateur** | **Date**
