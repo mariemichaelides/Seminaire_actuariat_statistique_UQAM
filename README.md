@@ -14,6 +14,8 @@ Sébastien Jessup | 30/06/2021
 Philipp Ratz | 07/07/2021
 Roxane Turcotte | 14/07/2021
 Étienne Bacon | 21/07/2021
+... | ...
+Tommy Mastromonaco | 18/10/2021
 
 --- 
 
