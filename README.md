@@ -17,6 +17,7 @@ Francis Duval | 17/06/2021
 Marie-Claude Vachon | 23/06/2021
 Sébastien Jessup | 30/06/2021
 Philipp Ratz | 07/07/2021
+Roxane Turcotte | 14/07/2021
 
 --- 
 
