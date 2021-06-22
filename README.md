@@ -6,7 +6,7 @@ Vous trouverez [ici](Slides/) les slides des présentations des séminaires.
 ```
 
 ---
-Prochaine présentation :
+Horaire des présentations :
 **Présentateur** | **Date**
 :---: | :---:
 Marie-Claude Vachon | 23/06/2021
