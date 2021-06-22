@@ -7,15 +7,15 @@ Vous trouverez [ici](Slides/) les slides des présentations des séminaires.
 
 ---
 Horaire des présentations :
-**Présentateur** | **Date**
-:---: | :---:
-Marie-Claude Vachon | 23/06/2021
-Sébastien Jessup | 30/06/2021
-Philipp Ratz | 07/07/2021
-Roxane Turcotte | 14/07/2021
-Étienne Bacon | 21/07/2021
-... | ...
-Tommy Mastromonaco | 18/08/2021
+**Présentateur** | **Date** | **Titre**
+:---: | :---: | :---:
+Marie-Claude Vachon | 23/06/2021 | Options Pricing via Continuous-Time Markov Chain Approximation
+Sébastien Jessup | 30/06/2021 | Modèles de pertes non-homogènes avec dépendance pour la prime non-acquise
+Philipp Ratz | 07/07/2021 | À confirmer
+Roxane Turcotte | 14/07/2021 | À confirmer
+Étienne Bacon | 21/07/2021 | À confirmer
+... | ... | ...
+Tommy Mastromonaco | 18/08/2021 | À confirmer
 
 --- 
 
@@ -31,6 +31,6 @@ Tommy Mastromonaco | 18/08/2021
 ---
 
 Présentation précédente :
-**Présentateur** | **Date**
-:---: | :---:
-[Francis Duval](https://github.com/francisduval) | 17/06/2021
+**Présentateur** | **Date** | **Titre**
+:---: | :---: | :---:
+[Francis Duval](https://github.com/francisduval) | 17/06/2021 | Quelle quantité d’information télématique conserver pour prédire les réclamations?
