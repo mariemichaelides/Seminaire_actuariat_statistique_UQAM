@@ -2,14 +2,13 @@
 Vous trouverez [ici](Slides/) les slides des présentations des séminaires.
 
 ```diff
-- Prochaine présentation : Philipp Ratz
+- Prochaine présentation : Roxane Turcotte
 ```
 
 ---
 Horaire des présentations :
 **Présentateur** | **Date** | **Titre**
 :---: | :---: | :---:
-Philipp Ratz | 07/07/2021 | Collaborative Insurance Sustainability and Network Structure
 Roxane Turcotte | 14/07/2021 | À confirmer
 Étienne Bacon | 21/07/2021 | À confirmer
 ... | ... | ...
@@ -34,3 +33,4 @@ Présentation précédente :
 [Francis Duval](https://github.com/francisduval) | 17/06/2021 | Quelle quantité d’information télématique conserver pour prédire les réclamations?
 Marie-Claude Vachon | 23/06/2021 | Options Pricing via Continuous-Time Markov Chain Approximation
 Sébastien Jessup | 30/06/2021 | Modèles de pertes non-homogènes avec dépendance pour la prime non-acquise
+[Philipp Ratz](https://github.com/phi-ra) | 07/07/2021 | Collaborative Insurance Sustainability and Network Structure
