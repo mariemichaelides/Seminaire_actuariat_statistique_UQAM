@@ -33,4 +33,4 @@ Présentation précédente :
 [Francis Duval](https://github.com/francisduval) | 17/06/2021 | Quelle quantité d’information télématique conserver pour prédire les réclamations?
 Marie-Claude Vachon | 23/06/2021 | Options Pricing via Continuous-Time Markov Chain Approximation
 Sébastien Jessup | 30/06/2021 | Modèles de pertes non-homogènes avec dépendance pour la prime non-acquise
-[Philipp Ratz](https://github.com/phi-ra) | 07/07/2021 | Collaborative Insurance Sustainability and Network Structure
+[Philipp Ratz](https://github.com/phi-ra/collaborative_insurance) | 07/07/2021 | Collaborative Insurance Sustainability and Network Structure
