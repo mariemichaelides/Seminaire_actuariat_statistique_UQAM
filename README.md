@@ -9,8 +9,9 @@ Vous trouverez [ici](Slides/) les slides des présentations des séminaires.
 Horaire des présentations :
 **Présentateur** | **Date** | **Titre**
 :---: | :---: | :---:
-Roxane Turcotte | 14/07/2021 | À confirmer
+Roxane Turcotte | 14/07/2021 | Analyse longitudinale de l'impact de la distance parcourue sur la probabilité d'un accident automobile
 Étienne Bacon | 21/07/2021 | À confirmer
+Juan Sebastian Yanez | 28/07/2021 | Modélisation paramétrique des réserves granulaires en fonction de la durée-fréquence-sévérité
 ... | ... | ...
 Tommy Mastromonaco | 18/08/2021 | À confirmer
 
