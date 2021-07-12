@@ -13,6 +13,7 @@ Roxane Turcotte | 14/07/2021 | Analyse longitudinale de l'impact de la distance 
 Étienne Bacon | 21/07/2021 | À confirmer
 Juan Sebastian Yanez | 28/07/2021 | Modélisation paramétrique des réserves granulaires en fonction de la durée-fréquence-sévérité
 ... | ... | ...
+Christopher Blier-Wong | 11/08/2021 | À confirmer
 Tommy Mastromonaco | 18/08/2021 | À confirmer
 
 --- 
